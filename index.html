@@ -28,12 +28,13 @@
 	setTimeout(function(){
 		document.getElementById("main").classList.remove("section");
 		document.getElementById("main").classList.add("second");
-		setTimeout(function(){
 		
-		document.getElementById("main").classList.remove("second");
-		document.getElementById("main").classList.add("section");
-		},2000 );
 	},2000 );
+
+	setTimeout(function(){
+		document.getElementById("main").classList.remove("second");
+		document.getElementById("main").classList.add("third");
+	},4000 );
 	
 </script>
 

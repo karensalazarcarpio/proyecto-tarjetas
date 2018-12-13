@@ -18,6 +18,14 @@ body{
 	position:relative;
 	overflow: hidden;
 }
+.third{
+	background-image:url('mje.jpg');
+	background-size: cover;
+	width:100%; 
+	height: 649px;
+	position:relative;
+	overflow: hidden;
+}
 .s1{
 	background: url('snow.png');
 	background-repeat: repeat;
