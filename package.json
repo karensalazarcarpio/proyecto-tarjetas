@@ -1,0 +1,23 @@
+{
+  "name": "proyecto-tarjetas",
+  "version": "0.0.1",
+  "description": "El proyecto consiste en mostrar tarjetas con un mensaje navideño",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karensalazarcarpio/proyecto-tarjetas.git"
+  },
+  "keywords": [
+    "js",
+    "tarjetas"
+  ],
+  "author": "'karen'",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karensalazarcarpio/proyecto-tarjetas/issues"
+  },
+  "homepage": "https://github.com/karensalazarcarpio/proyecto-tarjetas#readme"
+}
