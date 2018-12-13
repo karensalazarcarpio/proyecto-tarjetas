@@ -1,6 +1,6 @@
 {
   "name": "proyecto-tarjetas",
-  "version": "0.0.1-beta.1",
+  "version": "0.0.2-rc.1",
   "description": "El proyecto consiste en mostrar tarjetas con un mensaje navideño",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/karensalazarcarpio/proyecto-tarjetas#readme",
   "dependencies": {
-    "boostrap": "^2.0.0",
+    "bootstrap": "^4.1.3",
     "jquery": "^3.3.1"
   }
 }
