@@ -1,6 +1,6 @@
 {
   "name": "proyecto-tarjetas",
-  "version": "0.0.2-rc.1",
+  "version": "0.1.0-rc.2",
   "description": "El proyecto consiste en mostrar tarjetas con un mensaje navideño",
   "main": "index.js",
   "scripts": {
